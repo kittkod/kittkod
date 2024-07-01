@@ -1,4 +1,4 @@
-- 😎 Hi there I'm Jasmine 😃
+- 😎 Hi there I'm Jasmine 😎
 - 👀 I’m interested in software, development, data analysis
 - 🌱 I love the environment, social justice, free healthcare, and the arts
 - 🧜 I’m currently learning about data analysis through SQL
